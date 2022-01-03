@@ -1,7 +1,7 @@
-pytorch~=1.6.0
-numpy~=1.19.5
-transformers~=4.1.1
-tqdm~=4.61.0
-tensorboardx~=2.2
-matplotlib~=3.4.3
-sentencePiece
+torch==1.6.0
+transformers==4.1.1
+pyvi==0.1.1
+sentencepiece
+tensorboardx
+numpy
+tqdm
