@@ -5,7 +5,7 @@ python main.py \
   --do_train \
   --do_lower_case \
   --model_dir checkpoint \
-  --train_file train_model_clean.json \
+  --train_file train_data_model.json \
   --train_batch_size 12 \
   --max_question_len 50 \
   --max_seq_len 256 \
